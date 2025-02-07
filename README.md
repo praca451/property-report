@@ -10,16 +10,16 @@ This project automates the extraction of real estate listings from supported web
 - **User-Defined Profit Calculation:** Allows the user to modify input values and auto-update the financial analysis.
 
 ## ⚙️ Configuration
-The script scrapes all real estate listings from the website.
-For properties larger than 200m², it calculates the division into four smaller apartments.
-The resale price per unit is set to €350,000 (modifiable in the script).
+- ** The script scrapes all real estate listings from the website.
+- ** For properties larger than 200m², it calculates the division into four smaller apartments.
+- ** The resale price per unit is set to €350,000 (modifiable in the script).
 It automatically calculates the Profit/Loss of scouting based on acquisition costs, renovation costs, and projected revenue.
-All financial calculations and related formulas are dynamically updated in the Excel report.
+- **All financial calculations and related formulas are dynamically updated in the Excel report.
 
 ## 🔄 Future Improvements
-Expand data sources: Integrate more property listing websites.
-Image Processing: Planimetry analysis via Convolutional Neural Networks (CNN).
-Web Interface: Create a simple UI for data input & visualization.
+- ** Expand data sources: Integrate more property listing websites.
+- ** Image Processing: Planimetry analysis via Convolutional Neural Networks (CNN).
+- ** Web Interface: Create a simple UI for data input & visualization.
 
 ## 🛠️ Installation
 Ensure you have Python 3.8+ installed on your system.
