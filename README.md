@@ -16,7 +16,7 @@ The resale price per unit is set to €350,000 (modifiable in the script).
 It automatically calculates the Profit/Loss of scouting based on acquisition costs, renovation costs, and projected revenue.
 All financial calculations and related formulas are dynamically updated in the Excel report.
 
-🔄 Future Improvements
+## 🔄 Future Improvements
 Expand data sources: Integrate more property listing websites.
 Image Processing: Planimetry analysis via Convolutional Neural Networks (CNN).
 Web Interface: Create a simple UI for data input & visualization.
